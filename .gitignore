@@ -1,0 +1,29 @@
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Raw OULAD dataset
+dataset/
+
+# Student-level out-of-fold predictions
+results_corrected/oof_predictions_*.csv
+hybrid_results/hybrid_oof_predictions_*.csv
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE settings
+.vscode/
+.idea/
