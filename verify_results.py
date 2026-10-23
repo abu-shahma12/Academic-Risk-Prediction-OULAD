@@ -49,17 +49,17 @@ MODELS = [
 # These are reference values, NOT verified results.
 
 PAPER_RESULTS = {
-    15: {
-        "F1": 0.6442,
-        "ROC-AUC": 0.7792
+   15: {
+        "F1": 0.6403,
+        "ROC-AUC": 0.7791
     },
     30: {
-        "F1": 0.6932,
-        "ROC-AUC": 0.8409
+        "F1": 0.6935,
+        "ROC-AUC": 0.8401
     },
     45: {
-        "F1": 0.7421,
-        "ROC-AUC": 0.8828
+        "F1": 0.7394,
+        "ROC-AUC": 0.8819
     }
 }
 
