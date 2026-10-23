@@ -66,3 +66,40 @@ The original dataset is not included in this repository.
 - External institutional validation was not conducted.
 - The system has not been tested through real-world
   educational interventions.
+
+
+  ## 👥 Project Contributors
+
+This research project was developed collaboratively by a team from the **Apex Institute of Technology, Chandigarh University, Mohali, India**, under academic supervision.
+
+| Name                 | Role                         | Contributions                                                                                          |
+| -------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Somdatta Patra**   | Research Supervisor          | Academic supervision, research guidance, and project oversight.                                        |
+| **Bedant Singhania** | Research and Documentation   | Research findings, literature review, preparation of supporting documents, and research paper writing. |
+| **Misha Kumari**     | Research and Documentation   | Research findings, preparation of supporting documents, and research paper writing.                    |
+| **Abu Shahma Khan**  | Machine Learning Development | Python programming, model implementation, training, testing, and experimental evaluation.              |
+| **Lakshit Soni**     | Research and Documentation   | Research findings, preparation of supporting documents, and research paper writing.                    |
+
+### 🛠️ Technical Implementation
+
+The machine learning implementation was carried out by **Abu Shahma Khan**, including:
+
+* Development and implementation of the machine learning pipeline.
+* Implementation of XGBoost, LightGBM, and Random Forest specialist models.
+* Development and testing of the stacking coordinator and hybrid ensemble.
+* Execution of model training and evaluation experiments.
+* Implementation of specialist-subset ablation experiments.
+* Statistical evaluation and bootstrap analysis.
+* Implementation and evaluation of fairness-aware threshold adjustments.
+
+### 📚 Research and Documentation
+
+**Bedant Singhania, Misha Kumari, and Lakshit Soni** contributed to the research and documentation activities, including:
+
+* Research findings and literature review.
+* Preparation of supporting research documents.
+* Academic manuscript preparation and writing.
+
+### 🎓 Academic Supervision
+
+**Somdatta Patra** provided academic supervision and guidance throughout the research project.
